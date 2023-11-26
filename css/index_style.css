@@ -878,6 +878,9 @@ input[type="email"]:focus {
 }
 
 @media only screen and (max-width: 767px) {
+    header nav{
+        width: 75% !important;
+    }
     nav .navbar-brand {
         display: inline !important;
     }
